@@ -1,6 +1,9 @@
 # Pika_Quicklook
 Macos like quick preview for Dolphin / KDE Plasma / Wayland
 
+
+<img width="800" height="450" alt="Preview sample" src="https://github.com/user-attachments/assets/8ac3d7de-60c6-43a6-9129-e60d838a1032" />
+
 hi there.. i made a small rust app for dolphin. Its a small quicklook thingy.. like the one at macos.You select an image or txt file, press space and hold and a preview window pops up showing the image. Goes away when you release the space. I also added a 2 second hold if a letter pressed, incase someone wants to put a really long space at a filename  O_o. Its a vibe code for my use only..Dont expect support and DO NOT GIVE ME BUG REPORTS. The code is there..Do what you want with it. Like i said. i did this for my personal use and decided to share it..
 
 USE IT AT YOUR OWN RISK!
