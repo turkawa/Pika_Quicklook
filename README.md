@@ -42,16 +42,25 @@ Then find your keyboard name in the list and change it at the config.toml
 
 Open autostart and point it to your pika-ql
 
+WINDOWS RULES SETUP
+
 go to settings / Window rules
 Set it as follows
 
 Description: Quicklook
+
 Window class (application) : exact match / pika-ql
+
 window types: All Selected
+
 Initial placement: force / centered
+
 Keep above other windows: force / yes
+
 Skip taskbar: force / yes
+
 No titlebar and frame: force / yes
+
 
 this should work :)
 
