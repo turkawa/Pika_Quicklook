@@ -11,6 +11,7 @@ I have no idea how will it react on other setups
 Again...Use it at your own risk
 
 Files supported
+
 Almost all common image formats. (png, Jpg, gif, etc.)
 It also supports .txt, .conf, .config, etc.etc. 
 It have syntax coloring.
