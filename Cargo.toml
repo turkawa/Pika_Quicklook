@@ -1,0 +1,24 @@
+[package]
+name = "pika-ql"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# UI Framework
+eframe = "0.27"
+egui_extras = { version = "0.27", features = ["image", "svg", "file", "syntect"] }
+
+# Image processing (Supports WebP, GIF, etc. via default features)
+image = { version = "0.24", features = ["default"] }
+
+# File type detection
+mime_guess = "2.0"
+
+# Input and System communication
+evdev = "0.12"
+zbus = { version = "4.4", features = ["blocking"] }
+uinput = "0.1.3"
+
+# NEW: Configuration file handling
+serde = { version = "1.0", features = ["derive"] }
+toml = "0.8"
